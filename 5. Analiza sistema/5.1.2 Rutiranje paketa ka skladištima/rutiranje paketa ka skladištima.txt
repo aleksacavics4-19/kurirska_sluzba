@@ -1,0 +1,20 @@
+Rutiranje paketa ka skladištima
+
+Akteri: Dispečer, kurir	
+Preduslovi: Kreirani nalozi za prijem paketa
+Postuslovi: Paketi su pristigli u skladište
+Ulaz: Nalozi za prijem paketa
+Izlaz: Kreirana ruta i preuzeti paketi
+
+Glavni tok:
+1. Dispečer iz CMS-a prikuplja podatke sa kreiranih naloga
+2. Dispečer sortira prikupljene podatke
+3. Dispečer prema prikupljenim podacima pravi optimalnu rutu kretanja kurira
+4. Dispečer dodeljuje rutu određenom kuriru
+5. Kurir prema datoj ruti prikuplja pakete
+6. Kurir obaveštava dispečera o prikupljenom paketu
+7. Dispečer zakljuluje nalog
+8. Kurir prikupljene pakete odnosi u skladište
+
+Alternativni tok:
+6. a) Ukoliko pošiljalac nije na adresi, kurir obaveštava dispečera koji poništava nalog i slučaj upotrebe se nastavlja od koraka 5
