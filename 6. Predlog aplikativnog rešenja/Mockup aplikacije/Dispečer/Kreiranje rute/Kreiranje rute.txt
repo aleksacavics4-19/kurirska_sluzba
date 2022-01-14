@@ -1,0 +1,3 @@
+Kreiranje rute
+
+Dispečer klikom na dugme ‘Kreiraj novu rutu’ otvara formu za kreiranje rute (slika 2.2.3), gde u samoj tabeli edituje podatke (ulice, brojeve paketa koji se nalaze u ruti, opštinu i kurira kome ruta treba biti dodeljena).

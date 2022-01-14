@@ -1,0 +1,3 @@
+Login i registracija
+
+Pri dolasku na web aplikaciju, korisniku se prikazuje ekran za logovanje (Slika 2.1.1.1). Ukoliko korisnik ima korisnički nalog, upisuje svoje kredencijale i pristupa sledećem ekranu (forma za unos podataka). Ukoliko korisnik nema nalog, klikom na dugme ‘Registracija’ otvara formu za registrovanje korisnika (Slika 2.2.1.2). Po završenom upisu podataka klikom na dugme send korisnik je registrovan i ulogovan na sistem.

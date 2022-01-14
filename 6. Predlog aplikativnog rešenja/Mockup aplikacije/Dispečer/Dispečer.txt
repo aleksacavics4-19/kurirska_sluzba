@@ -1,0 +1,3 @@
+Dispečer
+
+Pri logovanju na CMS sistem dispečer ima mogućnost manipulacije podacima o zaposlenima, pošiljaocima, primaocima i vozilima, kao i mogućnost prihvatanja paketa, njihov pregled i mogućost pravljenja ruta.

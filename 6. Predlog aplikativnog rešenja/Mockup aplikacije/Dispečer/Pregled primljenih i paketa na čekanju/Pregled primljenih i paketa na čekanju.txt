@@ -1,0 +1,3 @@
+Pregled primljenih i paketa na čekanju
+
+Logovanjem na CMS sistem, dispečer klikom na dugme ‘Paketi’ u navigaciji ima pristup za pregled liste ‘Paketi za sortiranje’ (slika 2.2.1), prema kojoj se pravi upustvo koje se dostavlja magacioneru. Tabela ‘Paketi za prijem’ sadrži informacije sa online naloga koje su popunili pošiljaoci, i dispečer u okviru nje ima mogućnost da prihvati ili odbije paket.

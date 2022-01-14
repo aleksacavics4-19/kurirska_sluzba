@@ -1,0 +1,2 @@
+Pregled rute
+Na prvom ekranu (slika 2.3.1), korisnik tj. kurir dobija pregled rute, tj adrese na koje treba da dostavi pakete, brojeve paketa koje treba da isporuči, i trenutnu poziju na ruti.

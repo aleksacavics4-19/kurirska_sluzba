@@ -1,0 +1,2 @@
+Kurir
+Pri logovanju na aplikaciju kurir vidi tri ekrana, koji mu pokazuju rutu prema kojoj treba da ide, detalje o paketu i treći mu pruža mogućnost da promeni status pošiljke.

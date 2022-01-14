@@ -1,0 +1,3 @@
+Popunjavanje forme
+
+Nakon izvršenog logina, korisniku se prikazuje ekran sa formom za kreiranje online naloga za preuzimanje paketa (slika 2.1.2.1). Korisnik popunjava sve informacije o sebi (pošiljaocu), primaocu i paketu i klikom na dugme ‘Pošalji’ prosleđuje unesene podatke dispečeru na reviziju (slika 2.1.2.2).

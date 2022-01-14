@@ -1,0 +1,5 @@
+Sistem je zamišljen tako da postoje 3 perspektive u zavisnosti od korisnika sistema. 
+Od korisnika razlikujemo sledeće:
+	1. Pošiljalac
+	2. Dispečer
+	3. Kurir

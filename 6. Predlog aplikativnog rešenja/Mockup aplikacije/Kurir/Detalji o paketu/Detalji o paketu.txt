@@ -1,0 +1,2 @@
+Detalji o paketu
+Na drugom ekranu, kurir vidi tačne podatke o paketu (slika 2.3.2). U prvom delu vidi informacije o pošaljiocu, njegovo ime, prezime, adresu i broj, a u drugom delu vidi informacije o primaocu paketa. U donjoj polovini ekrana vidi broj paketa, cenu usluge i cenu otkupa, kao i status paketa. U dnu ekrana postoji dugme koje vodi korisnika na sledeću stranicu gde može da promeni status paketa.

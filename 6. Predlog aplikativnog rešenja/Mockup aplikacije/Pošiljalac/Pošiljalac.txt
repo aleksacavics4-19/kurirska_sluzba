@@ -1,0 +1,1 @@
+Pošiljaocu je omogućeno logovanje ili registrovanje na web aplikaciju i popunjavanje forme za kreiranje online naloga za preuzimanje paketa.

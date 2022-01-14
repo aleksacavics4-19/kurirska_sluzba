@@ -1,0 +1,3 @@
+Pregled ruta
+
+Dispečer klikom na dugme ‘Rute’ u navigaciji ima pristup za pregled liste prethodno kreiranih ruta sa njihovim brojem, putanjom, opštinom i dodeljenim kurirom (slika 2.2.2). Takođe se na ovom ekranu nalazi dugme ‘Kreiraj novu rutu’, koje otvara formu za kreiranje rute.

@@ -1,0 +1,2 @@
+Promena statusa paketa
+Na trećoj, i poslednjoj stranici, koja je dostupna kuriru, on ima mogućnost da izabere jedno od tri stanja paketa (slika 2.3.3). Paket je u osnovnom stanju “Na dostavi”, dok kurir to ne promeni odabirom neke opcije. Zarad sigurnosti postoje dodatna dva dugmeta na dnu ekrana koja služe za potvrdu ili negaciju promene.

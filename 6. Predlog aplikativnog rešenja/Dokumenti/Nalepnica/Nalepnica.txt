@@ -1,0 +1,1 @@
+Nalepnica (slika 1.2) se lepi na paket spreman za isporuku i sadrži podatke o primaocu, cenu usluge i otkupa paketa i QR kod čijim se skeniranjem prikazuju sve ostale informacije o paketu.
