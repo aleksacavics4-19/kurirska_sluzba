@@ -1,0 +1,25 @@
+Korišćeni alati, dijagrami i standardi
+
+Softver korišćen pri izradi projekta:
+Microsoft Office
+Access
+VisioKorišćeni alati, dijagrami i standardi
+
+Softver korišćen pri izradi projekta:
+	1)Microsoft Office
+		a)Access
+		b)Visio
+		c)Word
+	2)Draw.io
+	3)Adobe XD
+
+Dijagrami korišćeni za predstavljanje slučajeva upotrebe:
+	1)Dijagram slučajeva upotrebe
+	2)Dijagram aktivnosti
+	3)Dijagram komunikacije
+
+Dijagrami korišćeni za vizuelizaciju klasa podataka i modela baze podataka:
+	1)Klasni dijagram
+
+Korišćen je UML standard za kreiranje dijagrama.
+
