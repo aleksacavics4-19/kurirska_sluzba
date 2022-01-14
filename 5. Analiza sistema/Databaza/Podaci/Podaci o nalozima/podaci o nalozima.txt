@@ -1,0 +1,19 @@
+Podaci o nalozima
+
+Podaci o nalozima obuhvataju:
+1. Identifikacioni broj naloga - Primarni ključ, integer
+2. Vreme kreiranja naloga - Nije nepostojeća vrednost, datetime
+3. Tip naloga - Strani ključ, integer
+4. Identifikacioni broj pošiljaoca - Strani ključ, integer
+
+Podaci o tipu naloga obuhvataju:
+1. Identifikacioni broj tipa naloga - Primarni ključ, integer
+2. Tip naloga - Nije nepostojeća vrednost, varchar(50)
+
+Podaci o pošiljaocu obuhvataju:
+1. Identifikacioni broj pošiljaoca - Primarni ključ, integer
+2. Ime pošiljaoca - Nije nepostojeća vrednost, varchar(50)
+3. Prezime pošiljaoca - Nije nepostojeća vrednost, varchar(50)
+4. Broj telefona pošiljaoca - Nije nepostojeća vrednost, varchar(13), sme početi karakterom ‘+’ ili ‘0’
+5. Email adresu pošiljaoca - Nije nepostojeća vrednost, varchar(100)
+6. Adresu pošiljaoca - Nije nepostojeća vrednost, varchar(100)

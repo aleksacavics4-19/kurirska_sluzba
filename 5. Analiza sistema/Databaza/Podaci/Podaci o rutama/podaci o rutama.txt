@@ -1,0 +1,22 @@
+Podaci o rutama
+
+Podaci o rutama obuhvataju:
+1. Identifikacioni broj rute - Primarni ključ, integer
+2. Identifikacioni broj vozila - Strani ključ, integer
+3. Opis rute - Nije nepostojeća vrednost, string
+4. Datum rute - Nije nepostojeća vrednost, datetime
+
+Podaci o paketima u ruti obuhvataju:
+1. Identifikacioni broj rute - Strani ključ, integer
+2. Identifikacioni broj paketa - Strani ključ, integer
+3. Identifikacioni broj skladišta - Strani ključ, integer
+
+Podaci o vozilu obuhvataju:
+1. Identifikacioni broj vozila - Primarni ključ, integer
+2. Registarski broj - Nije nepostojeća vrednost, varchar(8)
+3. Identifkacioni broj tipa vozila - Strani ključ, integer
+
+
+Podaci o tipu vozila obuhvataju:
+1. Identifikacioni broj tipa vozila - Primarni ključ, integer
+2. Tip vozila - Nije nepostojeća vrednost, varchar(50)

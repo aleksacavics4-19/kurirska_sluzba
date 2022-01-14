@@ -1,0 +1,9 @@
+Podaci o skladištima
+
+Podaci o skladištima obuhvataju:
+1. Identifikacioni broj skladišta
+2. Identifikacioni broj grada
+
+Podaci o gradu obuhvataju:
+1. Identifikacioni broj grada - Primarni ključ, integer
+2. Poštanski broj - Nije nepostojeća vrednost, varchar(5), sme sadržati samo karatkere od 0 do 9, ne sme počinjati karakterom ‘0’

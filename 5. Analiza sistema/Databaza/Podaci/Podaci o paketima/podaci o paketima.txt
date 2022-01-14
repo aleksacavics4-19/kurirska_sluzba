@@ -1,0 +1,18 @@
+Podaci o paketima
+
+Podaci o paketima obuhvataju:
+1. Identifikacioni broj paketa - Primarni ključ, integer
+2. Težinu paketa - Nije nepostojeća vrednost, float, mora biti manje od 50
+3. Identifikacioni broj sadržine paketa - Strani ključ, integer
+4. Identifikacioni broj statusa paketa - Strani ključ, integer
+5. Identifikacioni broj naloga - Strani ključ, integer
+6. Identifikacioni broj primaoca - Strani ključ, integer
+7. Identifikacioni broj skladišta - Strani ključ, integer
+
+Podaci o statusu paketa obuhvataju:
+1. Identifikacioni broj statusa paketa - Primarni ključ, integer
+2. Status paketa - Nije nepostojeća vrednost, varchar(50)
+
+Podaci o sadržini paketa obuhvataju:
+1. Identifikacioni broj sadržine - Primarni ključ, integer
+2. Kategoriju sadržine - Nije nepostojeća vrednost, varchar(50)

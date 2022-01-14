@@ -1,0 +1,25 @@
+Klase podataka i baza podataka
+
+Analizom prethodno navedenih slučajeva upotrebe, izdvojili smo sledeće klase podataka:
+ 
+1. Nalozi
+	a)Podaci o vremenu kreiranja naloga
+	b)Podaci o tipu naloga
+	c)Podaci o pošiljaocu
+2. Paketi
+	a)Podaci o masi paketa
+	b)Podaci o sadržini paketa
+	c)Podaci o statusu paketa
+	d)Podaci o skladištu
+	e)Podaci o nalogu
+	f)Podaci o primaocu
+3. Zaposleni
+	a)Podaci o zaposlenom
+	b)Podaci o radnom mestu
+	c)Podaci o skladištu
+4. Rute
+	a)Podaci o putanji
+	b)Podaci o paketima
+	c)Podaci o vozilu
+5. Skladišta
+	a)Podaci o skladištu

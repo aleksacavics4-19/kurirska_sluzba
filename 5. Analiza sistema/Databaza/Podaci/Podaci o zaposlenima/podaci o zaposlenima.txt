@@ -1,0 +1,12 @@
+Podaci o zaposlenima
+
+Podaci o zaposlenima obuhvataju:
+1. Identifikacioni broj zaposlenog - Primarni ključ, integer
+2. Ime zaposlenog - Nije nepostojeća vrednost, varchar(100)
+3. Prezime zaposlenog - Nije nepostojeća vrednost, varchar(100)
+4. Identifikacioni broj skladišta - Strani ključ, integer
+5. Identifikacioni broj tipa zaposlenih - Strani ključ, integer
+
+Podaci o tipu zaposlenih obuhvataju:
+1. Identifikacioni broj tipa - Primarni ključ, integer
+2. Tip zaposlenih - Nije nepostojeća vrednost, varchar(50)
