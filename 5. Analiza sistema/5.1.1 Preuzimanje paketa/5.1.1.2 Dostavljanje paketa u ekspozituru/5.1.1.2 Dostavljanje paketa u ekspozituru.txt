@@ -1,0 +1,21 @@
+5.1.1.2 Dostavljanje paketa u ekspozituru
+
+Akteri: Pošiljalac, radnik na šalteru
+Preduslovi: Pošiljalac je doneo paket u ekspozituru
+Postuslovi: Paket je prihvaćen
+Ulaz: Nema
+Izlaz: Potvrda o prijemu paketa, nalog za prijem paketa
+
+Glavni tok:
+
+	1. Pošiljalac donosi paket u ekspozituru
+	2. Pošiljalac predaje paket zaposlenom na šalteru
+	3. Pošiljalac pruža informacije o paketu
+	4. Zaposleni na šalteru radi reviziju podataka
+	5. Zaposleni na šalteru unosi podatke o paketu
+	6. Zaposleni na šalteru kreira nalog za prijem paketa
+	7. Zaposleni na šalteru izdaje pošiljaocu potvrdu o primljenom paketu
+
+Alternativni tok:
+	4. a) Ukoliko paket ne spada u opseg dozvoljene težine, zaposleni na šalteru odbija paket i slučaj upotrebe se završava
+	   b) Ukoliko paket sadrži nedozvoljene predmete,  zaposleni na šalteru odbija paket i slučaj upotrebe se završava

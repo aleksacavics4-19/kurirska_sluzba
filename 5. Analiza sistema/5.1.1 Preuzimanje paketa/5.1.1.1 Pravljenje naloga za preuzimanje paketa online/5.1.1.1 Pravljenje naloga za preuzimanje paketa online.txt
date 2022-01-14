@@ -1,0 +1,23 @@
+5.1.1.1 Pravljenje naloga za preuzimanje paketa online
+
+Akteri: Pošiljalac, dispečer
+Preduslovi: Korisnik je pristupio web aplikaciji
+Postuslovi: Paket je prihvaćen
+Ulaz: Nema
+Izlaz: Potvrda o prijemu paketa
+
+Glavni tok:
+	1.Pošiljalac se loguje na web aplikaciju
+	2. Pošiljalac navigira na stranicu “Kreiraj nalog za preuzimanje paketa”
+	3. Pošiljalac popunjava formu za unos podataka
+	4. Pošiljalac klikom na dugme “pošalji” prosleđuje podatke dispečeru na reviziju
+	5. Dispečer utvrđuje validnost unetih podataka, kao i poklapanje unetih vrednosti u opseg dozvoljenih vrednosti
+	6. Dispečer prihvata paket za slanje
+	7. Dispečer kreira potvrdu o prijemu paketa
+	8. Dispečer prosleđuje pošiljaocu povratnu informaciju
+
+Alternativni tok:
+	1. a)  Ukoliko pošiljaoc nema svoj korisnički nalog na web aplikaciji, upućen je na kreiranje istog
+	   b) Nakon kreiranja naloga, pošiljaoc je automatski ulogovan na web aplikaciju i slučaj upotrebe se nastavlja u koraku 2
+	5. a) Ukoliko paket ne spada u opseg dozvoljene težine, dispečer odbija paket i šalje pošiljaocu email o neispunjenim uslovima i slučaj upotrebe se završava
+	   b) Ukoliko paket sadrži nedozvoljene predmete, dispečer odbija paket i šalje pošiljaocu email o neispunjenim uslovima i slučaj upotrebe se završava
