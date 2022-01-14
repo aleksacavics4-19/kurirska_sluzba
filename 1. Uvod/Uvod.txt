@@ -1,0 +1,9 @@
+Uvod
+
+Predmet projekta je izrada informacionog sistema kurirske službe.
+Kurirska služba vrši preuzimanje i dostavu pošiljki na željenu adresu. Proces dostave se može sumirati na sledeći način:
+Šalterska služba preuzima paket koji pošiljalac uživo donese.
+Dispečer prima online zahteve za preuzimanje i određuje rute kuririma u skladu sa primljenim zahtevima i paketima za dostavu, i na osnovu dobijenih ruta pravi upustva za sortiranje.
+Kuriri preuzimaju pakete iz skladišta, i prema određenoj ruti dostavljaju pakete primaocima.
+Primaoci preuzimaju paket i plaćaju dostavu ukoliko je to potrebno.
+Ukoliko primalac iz nekog razloga ne može da preuzme paket, pošiljka se vraća u skladište, pokušava se ponovo sledeći dan ili se obaveštava mušterija da dođe do najbliže ekspoziture da preuzme paket. 

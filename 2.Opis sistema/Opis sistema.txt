@@ -1,0 +1,5 @@
+Opis sistema
+
+Postojeći sistem, koji je rađen u Wordpressu, ne ispunjava potrebe svih korisnika, i nije dovoljno prilagodljiv. Dispečeri su morali da koriste druge aplikacije, koje su zahtevale različite nivoe znanja, da bi pravili rute kuririma. 
+Da bi se sve potrebe korsinka spojile na jedno mesto vrši se izrada novog sistema, koji će imati različite funkcionalnosti u zavisnosti od tipa korisnika. Deo posvećen pošaljiocu ima omogućenu prijavu i unos detalja o paketu. Dispečer ima ulogu admina, gde ima mogućnost pregleda pošiljki, kreiranja ruta i verifikacije naloga. 
+Na osnovu prethodnih iskustava korisnika i radnika i razgovora sa njima, specifikacije novog sistema, koje su opisane dalje u projektu, bi trebalo da pruže optimalno iskustvo svima. 

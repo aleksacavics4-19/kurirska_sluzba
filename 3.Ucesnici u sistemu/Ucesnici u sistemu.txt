@@ -1,0 +1,13 @@
+Učesnici u sistemu
+
+Pošiljalac -  osoba koja zahteva uslugu slanja paketa. Uživo to čini tako što donese paket na šalter gde ostavlja sve potrebne podatke. Putem aplikacije čini tako što unosi sve podatke o paketu i adresu za dostavu i šalje zahtev za preuzimanje pošiljke sa adrese.
+
+Dispečer - zaposleni koji pregleda i prihvata/odbija online zahteve za preuzimanje pošiljki, i u skladu sa informacijama o adresama pošiljki za dostavu i preuzimanje pravi optimalne rute kuririma, kako bi najefikasnije obavljali svoj posao. Kako bi rute bile efikasne, šalje upustva magacionerima o pakovanju određenih paketa u određena vozila. Takođe pri preuzimanju paketa sa adresa ima mogućnost poništavanja naloga.
+
+Radnik na šalteru - zaposleni obavlja pregled i preuzimanje paketa u ekspozituri i unos svih potrebnih informacija kako bi se dobile tačne vrednosti, da bi pošiljka stigla bez greške na željenu destinaciju.
+
+Magacioner - zaposleni koji vrši sortiranje i pakovanje paketa u vozila na osnovu uputstva dispečera, što je od velike važnosti za pristizanje paketa u određene regionalne centre, dostavljanje na osnovu kurirskih ruta i sprečavanje gubitka paketa.
+
+Kurir - zaposleni koji preuzima pakete iz skladišta ili sa određenih adresa prema dodeljenoj ruti, i dostavlja ih na željene adrese ili u skladišta koristeći rute koje je dispečer odredio. Takođe pri dostavi ima mogućnost menjanja statusa paketa.
+
+Primalac - osoba koja preuzima paket, i plaća poštarinu i otkup ukoliko je to potrebno.

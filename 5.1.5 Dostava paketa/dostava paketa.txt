@@ -1,0 +1,24 @@
+Dostava paketa
+
+Akteri: Kurir, primalac
+Preduslovi: Vozilo utovareno i spremno za dostavu
+Postuslovi: Potpisan je dokument o prijemu paketa, paket je označen kao dostavljen
+Ulaz: Utovareni paketi i njihova ruta
+Izlaz: Dostavljen paket
+
+Glavni tok:
+Kurir preuzima predodređeno vozilo sa utovarenim paketima
+Kurir putem aplikacije proverava svoju rutu
+Kurir prati zadatu rutu
+Kurir kontaktira primaoca neposredno pre dolaska na određenu adresu
+Kurir isporučuje pakete primaocu
+Kurir naplaćuje uslugu i vrednost paketa
+Pošiljaoc potpisuje dokument o prijemu paketa
+Kurir skenira QR kod 
+Kurir u aplikaciji označava pošiljku kao dostavljenu
+
+Alternativni tok:
+a) Ukoliko kurir ne stupi u kontakt sa primaocem, skenira QR kod i u aplikaciji označava pošiljku kao neuspelu
+b) Kurir vraća paket na kraju dana u skladište i slučaj upotrebe se nastavlja od koraka 3
+a) Ukoliko je usluga prethodno plaćena, kurir ne uzima novčana sredstva i slučaj upotrebe se nastavlja od koraka 7
+b) Ukoliko paket nema otkup, kurir ne uzima novčana sredstva i slučaj upotrebe se nastavlja od koraka 7

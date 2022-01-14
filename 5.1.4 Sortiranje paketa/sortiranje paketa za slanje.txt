@@ -1,0 +1,14 @@
+Sortiranje paketa za slanje
+
+Akteri: Magacioner
+Preduslovi: Kreiran dokument sa uputstvom, paketi u skladištu
+Postuslovi: Paketi su spremni za dostavljanje
+Ulaz: Dokument sa uputstvom za utovar
+Izlaz: Utovareni paketi
+
+Glavni tok:
+Magacioner prema dobijenom uputstvu sortira pakete iz skladišta
+Magacioner utovara sortirane pakete u određeno vozilo
+
+Alternativni tok:
+a) Ukoliko paket nije ni u jednoj ruti, ostavlja se u skladištu  i slučaj upotrebe se nastavlja od koraka 1
