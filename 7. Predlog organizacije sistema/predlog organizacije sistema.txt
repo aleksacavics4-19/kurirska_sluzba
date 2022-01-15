@@ -1,0 +1,15 @@
+ Predlog organizacije sistema
+
+Izbor tehnologija vođen je time da stack u potpunosti bude u JavaScript-u, radi smanjenja troškova i broja developera potrebnih za izvedbu projekta.
+
+Za implementaciju baze podataka korišćen je MySQL.
+Trigger-i:
+	Pri unosu podataka u tabelu Posiljalac ili Primalac proverava se ispravnost podataka, konktretno formata broja telefona.
+	Pri unosu podataka u tabelu Paket proverava se opština u okviru koje paket treba da bude isporučen. Ukoliko se taj podatak u tabeli Paketi ne poklapa sa vrednošću nekog od redova atributa Gradovi u tabeli Skladista, unos nece biti uspešan.
+
+Kao frontend tehnologije, korišćeno je sledeće:
+	React.js - za web aplikaciju za klijenta i CMS koji koristi dispečer
+	React Native - za mobile aplikaciju koju koriste kuriri
+
+Server:
+	Express JS (Node.js) - Rest API
